@@ -1,1 +1,1 @@
-# Convert_Decimal_to_Binary_project
+# Convert-Decimal-to-Binary-project
