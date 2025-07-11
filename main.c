@@ -13,7 +13,6 @@ int main()
     return 0;
 }
 
-
 void decimalToBinary(int decimal)
 {
     int binary[32];
